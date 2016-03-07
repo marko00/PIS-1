@@ -11,6 +11,8 @@ namespace PIS_1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            //nevalja ti ova funkcija
         }
     }
 }
+//ne valja ovo ništa
